@@ -1,7 +1,7 @@
 class Aitasks < Formula
   desc "Agentic IDE in your terminal: markdown tasks, YAML frontmatter, git-native"
   homepage "https://aitasks.io/"
-  url "https://github.com/beyondeye/aitasks/releases/download/v0.24.0/ait"
+  url "https://github.com/beyondeye/aitasks/releases/download/v0.25.0/ait"
   sha256 "ad4e92f3fe00549f8fb4c92b977fd462bc4df02454270404cfc762dd516fb5bd"
   license "Apache-2.0"
 
